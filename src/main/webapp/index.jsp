@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello Venu !  Good morning</h2>
-<h3>Hello Ramesh !  Good morning</h3>
+<h2>Welcome to devops Project</h2>
+<h3> This is Venugopal</h3>
 </body>
 </html>
